@@ -24,7 +24,7 @@ __References__
 ___
 Taken from [stackoverflow post](http://stackoverflow.com/questions/399656/are-there-any-rules-for-oop)
 
-Summarized from Agile Software Development Principles, Patterns, and Practices. These principles are the hard-won product of decades of experience in software engineering. They are not the product of a single mind, but they represent the integration and writings of a large number of software developers and researchers. Although they are presented here as principles of object-oriented design, they are really special cases of long-standing principles of software engineering.
+Summarized from [Agile Software Development Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445). These principles are the hard-won product of decades of experience in software engineering. They are not the product of a single mind, but they represent the integration and writings of a large number of software developers and researchers. Although they are presented here as principles of object-oriented design, they are really special cases of long-standing principles of software engineering.
 
 __SRP The Single Responsibility Principle__ A class should have only one reason to change.
 
@@ -54,6 +54,10 @@ ___
 
 #### Always Do:
 * Include <code>#!/usr/bin/env python</code> at the top of every python file. This guarantees that the first python installation in the <code>$PATH</code> variable is used to execute the file. Read more on this [stackoverflow article](http://stackoverflow.com/questions/2429511/why-do-people-write-usr-bin-env-python-on-the-first-line-of-a-python-script).
+
+#### More Stuff
+* [A collection of not-so-obvious Python stuff you should know!](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/not_so_obvious_python_stuff.ipynb?create=1)
+* [A collection of good references](https://github.com/rasbt/python_reference#-algorithms)
 
 #### Numpy
 [Numpy Documentation](https://docs.scipy.org/doc/numpy/)
@@ -89,9 +93,26 @@ __Cython gives you the combined power of Python and C to let you__
 
 
 ### Matlab
+Matlab stuff
 
 ## Machine Learning
 * [Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-2)
 
 ### Tensorflow
 [TensorFlow Programmers Guide](https://www.tensorflow.org/programmers_guide/reading_data)
+
+## Text Editors
+List of my favorite text editors.
+### Atom
+#### Benefits
+* lightweight
+* easy to use
+* cross-platform compatibility
+* packages/add-ons
+
+#### Packages
+* pylint
+* hydrogen
+ * allows inline execution of python code
+
+### Pycharm
