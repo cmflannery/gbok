@@ -52,6 +52,9 @@ ___
 ### Python 3
 [Python 3 Documentation](https://docs.python.org/3/)
 
+#### General Knowledge and Useful Links
+[Explanation of decorators](http://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python) in python on stackoverflow.
+
 #### Always Do:
 * Include <code>#!/usr/bin/env python</code> at the top of every python file. This guarantees that the first python installation in the <code>$PATH</code> variable is used to execute the file. Read more on this [stackoverflow article](http://stackoverflow.com/questions/2429511/why-do-people-write-usr-bin-env-python-on-the-first-line-of-a-python-script).
 
