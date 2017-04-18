@@ -93,7 +93,7 @@ __Cython gives you the combined power of Python and C to let you__
 
 ### C++
 [Official C++ Documentation](https://isocpp.org/std/the-standard)
-
+[stackoverflow - C++ Guides and Books](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 ### Matlab
 Matlab stuff

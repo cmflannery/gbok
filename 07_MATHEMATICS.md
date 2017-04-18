@@ -11,6 +11,8 @@ __Note to self:__ add notes on implementation and applications for each section.
 This is a super useful and important formula. Add information about this at some point. Latex formatting somehow?
 
 
+## Eulers Formula
+
 ## Computational Tools
 I primarily use Matlab, Python (Scipy Packages), and Mathematica for computation.
 
