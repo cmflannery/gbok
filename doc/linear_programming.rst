@@ -23,6 +23,14 @@ optimization variable, and :math:`Ax = b` and :math:`l \le x \le u` are constrai
 problem, :math:`A, b, c, l,` and :math:`u` are assumed to be known parameters of the mathematical
 model.
 
+Important Concepts
+------------------
+
+Review the following concepts.
+
+.. toctree::
+   linear_programming/geometry_of_lp
+
 Solving Linear Programs
 -----------------------
 
