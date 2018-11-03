@@ -9,6 +9,7 @@ Welcome to gbok: the General Body of Knowledge!
 .. toctree::
    :maxdepth: 2
 
+   rockets
    maths
    controls
    optimization
