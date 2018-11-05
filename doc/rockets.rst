@@ -9,3 +9,4 @@ A collection of things useful for rocket design.
    :maxdepth: 2
 
    rockets/performance.rst
+   rockets/injectors.rst
