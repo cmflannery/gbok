@@ -10,12 +10,10 @@ Convex Sets
 A set of points is called a *convex* set if all the points on the straight line segment joining any
 two points in the set belong to the set.
 
-.. image:: linear_programming\resources\convex_sets.png
-   :width: 200px
-   :height: 100px
-   :scale: 50 %
+.. image:: resources/convex_sets.png
+   :width: 500px
    :alt: alternate text
-   :align: right
+   :align: center
 
 Affine Sets
 -----------
